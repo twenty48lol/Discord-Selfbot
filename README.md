@@ -1,2 +1,4 @@
 # Discord-Selfbot
-Discord selfbot for me.
+Discord selfbot for my usage.
+
+## https://discord.com/terms
